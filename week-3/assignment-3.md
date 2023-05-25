@@ -6,9 +6,9 @@ description: Create a Product Backlog
 
 ## Assignment Details
 
-In the last assignment, you watched a short animation of your team's first meeting with the client, Connie. She came to your organization, in need of a library management solution that can be used to organize her electronics engineering firm's books and documents. **You discovered that SNHU Software actually has an in-house application for managing its own library and that, with a few modifications, it can meet Connie's needs.**
+In the last assignment, you watched a short animation of your team's first meeting with the client, Connie. She came to your organization in need of a library management solution that can be used to organize her electronics engineering firm's books and documents. **You discovered that SNHU Software actually has an in-house application for managing its own library and that, with a few modifications, it can meet Connie's needs.**
 
-Now,  you are going to watch another animation in which you will learn what modifications are needed to deliver value to Connie.&#x20;
+Now,  you will watch another animation to learn what modifications are needed to deliver value to Connie.&#x20;
 
 This assignment includes **two tasks**:
 
@@ -31,7 +31,7 @@ You can also reference the wireframes shown in the animation:
 File 1: Wireframes
 {% endfile %}
 
-Finally, you may need to use the **SNHU Electronics** company logo, at some point:
+Finally, you may need to use the **SNHU Electronics** company logo at some point:
 
 ![Fig. 1: SNHU Electronics Logo](../.gitbook/assets/SNHU\_Electronics\_Logo.png)
 

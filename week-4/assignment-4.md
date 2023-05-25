@@ -6,7 +6,7 @@ description: Planning a Sprint and Implementing a User Story
 
 ## Overview
 
-This assignment comprises 2 tasks:
+This assignment comprises two tasks:
 
 1. Perform _Sprint Planning_ for the first sprint of the SNHU Electronics Library Catalog project
 2. Implement one user story of the first Sprint
@@ -15,12 +15,12 @@ This assignment comprises 2 tasks:
 
 ### Instructions
 
-You're going to perform the _Sprint Planning_ for the first sprint of the project.
+You will perform the _Sprint Planning_ for the first sprint of the project.
 
 This involves two tasks:
 
 * Estimate the effort for each task in _Product Backlog_
-* Assign enough user stories to _Sprint 1_ to occupy your team -- this means you will assign **one task** because **the team comprises you** and **you only have one week**
+* Assign enough user stories to _Sprint 1_ to occupy your team -- this means you will assign **one task** because **the team comprises you,** and **you only have one week**
 
 Here is a short video showing you how to perform _Sprint Planning_ in GitHub projects:
 

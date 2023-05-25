@@ -105,7 +105,7 @@ The Scrum Master has a special relationship with the Product Owner in that they 
 
 ## Scrum Events
 
-![Fig. 2: Scrum Events](<../.gitbook/assets/image (8).png>)
+![Fig. 2: Scrum Events](<../.gitbook/assets/image (8) (1).png>)
 
 ### The Sprint
 

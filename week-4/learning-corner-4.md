@@ -106,7 +106,7 @@ If the team is newly formed, they will not have reached _their own_ value for _S
 
 Here's a great [article on Story Point Matrices](https://www.linkedin.com/pulse/cheat-sheet-story-point-sizing-neeraj-bachani/) and the image below is a good example of one you could use.
 
-![Fig. 2: Story Point Matrix](<../.gitbook/assets/image (5).png>)
+![Fig. 2: Story Point Matrix](<../.gitbook/assets/image (5) (1).png>)
 
 ## Swarming
 
