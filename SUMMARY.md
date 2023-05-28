@@ -44,6 +44,7 @@
   * [Reading and Study](week-5/reading-and-study.md)
   * [Learning Corner 5](week-5/learning-corner-5.md)
   * [Assignment 5](week-5/assignment-5.md)
+  * [Discussion 5](week-5/discussion-5.md)
 * [Week 6](week-6.md)
 * [Week 7](week-7.md)
 * [Week 8](week-8.md)

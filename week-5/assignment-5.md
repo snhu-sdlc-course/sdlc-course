@@ -39,7 +39,7 @@ This assignment has you fill the role of Agile Tester. You will use a prominent 
 ### 3. Create **FOUR** automated functional tests
 
 {% hint style="info" %}
-I suggest creating them by recording your actions in the browser. **Don't forget to add checks** on fields, text, etc., by right-clicking
+I suggest creating them by recording your actions in the browser. **Don't forget to add checks** on fields, text, etc., by right-clicking on those elements.
 {% endhint %}
 
 **Choose four user stories to test:**
