@@ -1,5 +1,5 @@
 ---
-description: Writing and Executing Test Scripts
+description: Writing and Executing Automated Tests
 ---
 
 # Assignment 5

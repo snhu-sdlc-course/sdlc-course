@@ -144,7 +144,7 @@ Risk is also a very important consideration. Risk is defined as the intersection
 
 Project Management resources often provide a _Risk Matrix_ as a tool to simplify this calculation. It allows you to rate risk on a scale from Low to High quickly.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Fig. 5: Risk Matrix</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fig. 5: Risk Matrix</p></figcaption></figure>
 
 ### Agile Tester Tools
 

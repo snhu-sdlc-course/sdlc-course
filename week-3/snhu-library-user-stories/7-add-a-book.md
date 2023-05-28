@@ -10,7 +10,7 @@ description: User Story 7
 >
 > I WANT TO add a new book
 >
-> SO THAT I manage that book in my library.
+> SO THAT I can manage that book in my library.
 
 ## Acceptance Criteria
 
@@ -20,7 +20,7 @@ description: User Story 7
   * [ ] The dialog will disappear;
   * [ ] the table of books will be updated; and,
   * [ ] the new book will be selected.
-* [ ] Given I have entered data in the _Add Book_ modal dialog, when I click the _Close_ icon or the _Cancel_ button, then my data will be erased and the _Add Book_ modal dialog will disappear.
+* [ ] Given I have entered data in the _Add Book_ modal dialog, when I click the _Close_ icon or the _Cancel_ button, then my data will be erased, and the _Add Book_ modal dialog will disappear.
 
 ## Wireframes
 

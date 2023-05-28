@@ -14,6 +14,6 @@ Explain why you think it is sometimes appropriate to choose Waterfall or why you
 
 ## Responses to Classmates
 
-Respond to at least 2 classmates. For classmates who agree with you, add some supporting evidence they did not mention.&#x20;
+Respond to at least 2 classmates. For classmates you agree with, add some supporting evidence they did not mention.&#x20;
 
-For those you disagree with, explain why you think they are wrong and you are right. Provide counterexamples to their position.
+For those you disagree with, explain why you think they are wrong and you are right. Provide counterexamples of their position.

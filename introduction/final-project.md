@@ -13,7 +13,7 @@ The final project for this course is a 3-part submission:
 ## An APA-formatted Sprint Review and Retrospective
 
 {% hint style="info" %}
-You are **welcome** to use the template below for your essay. It already has headings created for all the mandatory topics you must discuss.
+You are **required** to use the template below for your essay. It already has headings created for all the mandatory topics you must discuss.
 {% endhint %}
 
 {% file src="../.gitbook/assets/CS250 Sprint Review and Retrospective.docx" %}

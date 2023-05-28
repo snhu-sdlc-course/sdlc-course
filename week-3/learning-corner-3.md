@@ -80,7 +80,7 @@ Other methodologies and frameworks use "use cases" as their framework for docume
 
 ![Fig. 2: Use Case Page 1](../.gitbook/assets/usecasepg1.png) ![Fig. 3: Use Case Page 2](../.gitbook/assets/usecasepg2.png)
 
-The screenshots above show the first and second pages of a traditional use case template, compliments [TemplateLab.com](https://templatelab.com/use-case-templates/). Surprisingly, this template has not even been filled in; yet, it's already two pages long. You're welcome to download the actual Microsoft Word file:
+The screenshots above show the first and second pages of a traditional use case template thanks to [TemplateLab.com](https://templatelab.com/use-case-templates/). Surprisingly, this template has not even been filled in, yet, it's already two pages long. You're welcome to download the actual Microsoft Word file:
 
 {% file src="../.gitbook/assets/Use Case Template.docx" %}
 File 1: Use Case Template
@@ -88,7 +88,7 @@ File 1: Use Case Template
 
 ### An Agile Solution
 
-By now, you're surely thinking, "There must be a better way." Not only is there a better way, there is a shorter, more intuitive, and more _agile_ way called _User Stories_.&#x20;
+By now, you're surely thinking, "There must be a better way." Not only is there a better way, there is a shorter, more intuitive, and more _agile_ way called _**User Stories**_.&#x20;
 
 A User Story is a succinct, conversational description of a feature your client wants in the system. It normally includes:
 
@@ -127,6 +127,10 @@ This final piece of the user story puzzle is where your acceptance tests confirm
 In summary, the _card_ concisely states what needs to be done, the developers and testers have _conversations_ with the product owner to get the details, and the _confirmation_ verifies the implementation satisfies those details.
 
 ### Writing User Stories
+
+{% hint style="info" %}
+Several examples of good user stories are provided in this course: [snhu-library-user-stories](snhu-library-user-stories/ "mention"). These user stories document the features already implemented in the application you will be working on through the course.
+{% endhint %}
 
 User Stories should adhere to some simple requirements:
 
@@ -197,6 +201,14 @@ All three of these examples could be made testable by adding a numeric quantifie
 * 80% of generic users are able to complete their primary tasks in 5 minutes with no external help.
 * The system has a Mean Time to Recovery of 20 minutes.
 
+## Acceptance Criteria
+
+An excellent way to make your user stories more _testable_ is to add _acceptance criteria._ Acceptance criteria enhance user stories by explicitly stating _what_ needs to be done to satisfy the user story.&#x20;
+
+The Scrum Alliance® (n.d.) writes:
+
+> A user story is a brief description of your customer's needs, written from their perspective. It describes their goal or problem they’re trying to solve. The acceptance criteria are what should be done to solve their problem or achieve their goal.
+
 ## Putting Things in Order with a Backlog
 
 ![Fig. 5: Scrum Process Diagram Showing how the Product Backlog Feeds the Sprint Backlog](../.gitbook/assets/backlogs.png)
@@ -212,7 +224,7 @@ A _backlog_ in Scrum is an ordered (i.e., prioritized) list of user stories to b
 
 According to _The Scrum Guide_ (Schwaber, K. & Sutherland, J., 2020), the _Product Backlog_ is "an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team."
 
-In short, **it is** the prioritized list of all _known_ user stories. It **is not** the definitive, all-encompassing list of everything that must be done to finish the product; and, it cannot be seen as a simple roadmap that, once followed, leads to a completed and delivered product.
+In short, **it is** the prioritized list of all _known_ user stories. It **is not** the definitive, all-encompassing list of everything that must be done to finish the product, and, it cannot be seen as a simple roadmap that, once followed, leads to a completed and delivered product.
 
 Jeffries (2015) explains many Scrum teams fall victim to a logical trap by viewing the Product Backlog as "a master list of every single change that will be made in creating the product, each item including a description, priority, and estimate."
 
@@ -265,3 +277,4 @@ Just like the _Sprint Backlog_, the _Sprint Goal_ is a flexible part of Scrum. E
 * Jeffries, R. (2015). _The Backlog_. https://ronjeffries.com/articles/015-10/the-backlog/article.html
 * Rehkopf, M. (n.d.). _User Stories_. Atlassian Agile Coach. Retrieved August 1, 2022, from https://www.atlassian.com/agile/project-management/user-stories
 * Schwaber, K., & Sutherland, J. (2020). _The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game_.
+* Scrum Alliance. (n.d.). _Acceptance Criteria: Everything You Need to Know Plus Examples_. ScrumAlliance. Retrieved May 26, 2023, from https://resources.scrumalliance.org/Article/need-know-acceptance-criteria

@@ -13,9 +13,10 @@ This course will familiarize you with the history of Software Development Lifecy
 The course will cover the following material:
 
 * Basic stages of software development
-* Traditional software development methodologies including Waterfall, Spiral, Prototyping, and Incremental methodologies
-* The principles of Agile development and why it is an improvement over traditional models
-* The Scrum methodology
+* Traditional software development methodologies, including Waterfall, Spiral, Prototyping, and Incremental methodologies
+* The principles of Agile methodologies and why they are an improvement over traditional models
+* Agile testing practices and artifacts
+* Agile development via the Scrum methodology
   * Scrum artifacts
   * Common tools used to enable Scrum
   * Roles on a Scrum team
@@ -25,7 +26,7 @@ The course will cover the following material:
 
 After completing this course, you will be able to:
 
-1. Explain the different methodologies, practices, and roles involved in the Software Development Lifecycle
-2. Perform the duties of a developer or tester in a software development project that follows the Scrum methodology as both a developer and a tester
+1. Explain the different methodologies, stages, practices, and roles involved in the Software Development Lifecycle
+2. Perform the duties of a developer or tester in a software development project that follows the Scrum methodology
 3. Leverage commonly used project management and collaboration tools for organizing, planning, and executing an Agile project
 4. Choose an appropriate SDLC model for a given project

@@ -6,7 +6,12 @@ description: Create a Team Charter
 
 ## What is a Team Charter?
 
-A common way to help speed this process is the creation of a _Team Charter_. The _Team Charter_ is a document created collaboratively by the team that explicitly states those components of the team's culture.
+Bruce Tuckman (1965) proposed that every team goes through four stages as it coalesces from a group of individuals into a cohesive team. Those stages are _forming, storming, norming,_ and _performing_. As the team progresses through these phases, they develop a culture and a set of expectations that define them as a team. These four phases result in the team establishing components of its culture. Two of the most important components are:
+
+* Identifying what interpersonal behaviors are acceptable to the group
+* Members adopt and play roles that will enhance the team's effectiveness on the project
+
+A common way to help speed up this process is the creation of a _Team Charter_ at the outset of the project. The _Team Charter_ is a document created collaboratively by the team that explicitly states some of the components of its culture. This helps avoid or shorten the _storming_ and _norming_ phases.
 
 For this assignment, watch the animated video below that depicts the initial meeting between the client (SNHU Electronics), scrum master, and product owner. Then use one of the three _Team Charter_ templates listed to create a charter for the SNHU Electronics project discussed in the video.
 
@@ -82,3 +87,7 @@ File 1: Team Charter Template
 {% endfile %}
 
 ## Rubric
+
+## References
+
+* Tuckman, B. W. (1965). Developmental Sequence in Small Groups. In _Psychological Bulletin_ (Vol. 63, Issue 6).

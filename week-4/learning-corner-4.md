@@ -84,7 +84,7 @@ If there is enough time left in the sprint and the scope of a discovered issue i
 
 On Agile teams, quality assurance is typically performed in phases, as depicted in the graphic below:
 
-![Fig. 1: Phases of Quality Assurance on an Agile Team](<../.gitbook/assets/image (2).png>)
+![Fig. 1: Phases of Quality Assurance on an Agile Team](<../.gitbook/assets/image (2) (1).png>)
 
 ## Estimating with Story Points
 
