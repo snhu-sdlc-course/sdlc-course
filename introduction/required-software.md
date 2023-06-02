@@ -18,6 +18,13 @@ The steps below are **only required** if you are using your own computer.
 You must **ensure Podman is running** before continuing.
 {% endhint %}
 
+If you aren't certain that Podman started, run these commands:&#x20;
+
+```bash
+podman machine init
+podman machine start
+```
+
 {% hint style="warning" %}
 You should ensure Podman **auto-starts at login**. If you do not, you must manually launch it to provide access to MongoDB.
 {% endhint %}

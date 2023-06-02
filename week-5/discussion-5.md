@@ -10,7 +10,7 @@ Traditional test automation tools require developers to write test scripts in a 
 
 Read this article by Rob Mason (2021) describing the advent of codeless test automation tools and how they can be combined with traditional tools for maximum effect: [The Next Wave of Low-Code/No-Code: Codeless Test Automation](https://www.forbes.com/sites/forbestechcouncil/2021/06/02/the-next-wave-of-low-codeno-code-codeless-test-automation/?sh=ac316b048675).
 
-## Read a Medium Article About Agile Business
+## Review the 12 Principles of the Agile Business Manifesto
 
 This article is really just a list of the _12 Principles of the Agile Business Manifesto_. Read over these quickly, as you will reference them in your response: [12 Principles of the Agile Business Manifesto](https://medium.com/frontira/12-principles-of-the-agile-business-manifesto-58179382852a).
 
@@ -20,7 +20,7 @@ Answer these questions:
 
 1. Teams that have reached higher levels of test automation cited three main challenges they face.
    * List their three main challenges.
-   * For each of the three challenges, choose one of the 12 principles of the Agile Business Manifesto and explain how you think it could help solve the problem.
+   * Choose one or more of the 12 Principles of Agile Business and explain how those principle(s) might solve the three challenges.
 2. Compare and contrast traditional test automation with codeless test automation. Who is required to create traditional automated tests? What about codeless tests? Do you think the article is correct about this? Explain.
 3. When do you think teams should choose traditional automated testing over codeless testing?
 

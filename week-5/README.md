@@ -18,4 +18,4 @@ After completing this module, you will be able to:
 
 * Prioritize testing activities based on the _Definition of Done_ and user stories
 * Create acceptance test cases based on user stories
-* Translate test cases into automated functional tests using Selenium IDE
+* Translate test cases into automated functional tests using Katalon Studio

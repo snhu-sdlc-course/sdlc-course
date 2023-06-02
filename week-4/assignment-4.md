@@ -6,10 +6,10 @@ description: Planning a Sprint and Implementing a User Story
 
 ## Overview
 
-This assignment comprises two tasks:
+**This assignment comprises **<mark style="color:blue;">**two tasks**</mark>**:**
 
-1. Perform _Sprint Planning_ for the first sprint of the SNHU Electronics Library Catalog project
-2. Implement one user story of the first Sprint
+1. <mark style="color:blue;">Perform</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Sprint Planning</mark>_ for the first sprint of the SNHU Electronics Library Catalog project
+2. <mark style="color:blue;">Implement one user story</mark> of the first Sprint
 
 ## Sprint Planning
 

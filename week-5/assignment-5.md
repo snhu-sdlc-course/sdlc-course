@@ -42,14 +42,21 @@ This assignment has you fill the role of Agile Tester. You will use a prominent 
 I suggest creating them by recording your actions in the browser. **Don't forget to add checks** on fields, text, etc., by right-clicking on those elements.
 {% endhint %}
 
-**Choose four user stories to test:**
+Choose **four user stories** to test:
 
-* [ ] **Two** of the _**implemented user stories** from here:_ [SNHU Library User Stories](../week-3/snhu-library-user-stories/)
+* [ ] **Two** of the _**already implemented user stories** from here:_ [SNHU Library User Stories](../week-3/snhu-library-user-stories/)
 * [ ] The **two** user stories **you implemented**
+
+Ensure the following:
+
+* Test cases are named appropriately -- they should reflect the user story they are validation
+* All acceptance criteria are validated -- the test case should cover all the acceptance criteria for their corresponding user story
+* Test cases are _idempotent_ -- they can be run repeatedly without having to reset the system, reload data, etc.
 
 ### **4. Submit Your Work**
 
 * ZIP up your Katalon Studio project folder
-* Attach this ZIP file to your submission in Brightspace&#x20;
+* Export the reports for your test cases showing that each of them passed
+* Attach the ZIP file and the reports to your submission in Brightspace
 
 ## Rubric

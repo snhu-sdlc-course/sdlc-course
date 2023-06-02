@@ -1,4 +1,4 @@
-# Journal 3: Scrum Developer
+# Journal 3: Developer
 
 ## Overview
 
@@ -21,7 +21,7 @@ At a minimum, address the following topics:
 
 * How did you determine the value of a story point for the new project and team?
 * How did you decide the number of story points to assign each user story?
-* Assuming you were unfamiliar with the JavaFX framework, what resources did you use to gain enough proficiency to complete the task?
+* Assuming you were unfamiliar with the SailsJS or Angular frameworks, what resources did you use to gain enough proficiency to complete the task?
 * What kinds of information did you think important to include in your ticket comments?
 * In what ways was your classmate's peer review helpful? In what ways was it lacking?&#x20;
 * What things did you look for when reviewing someone else's code?

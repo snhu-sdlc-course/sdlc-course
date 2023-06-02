@@ -84,23 +84,15 @@ Before [#running-the-project-in-vs-code](tutorial-initialize-the-project.md#runn
 Because the project (i.e., its two subprojects) uses NPM, we will use NPM scripts to automate the build and run processes.
 
 {% hint style="info" %}
-**NPM is also a simple build automation tool.** It has a feature called _scripts_ that allows you to run scripted command line tasks.
+**NPM is also a simple build automation tool.** It has a feature called _scripts_ that allows you to run scripted command-line tasks.
 {% endhint %}
 
 {% hint style="warning" %}
-**Start the database.** Ensure the Podman MongoDB container is running. The backend project will not run properly without the database being available.
-{% endhint %}
-
-{% hint style="success" %}
-**Start both the frontend and backend projects.** The frontend project makes API requests to the backend project. The backend project communicates with the database.
-{% endhint %}
-
-{% hint style="success" %}
-**Both projects will **_**hot reload**_. This means the projects will rebuild and redeploy automatically as you make code changes.
+**Start the database.** Ensure the Podman MongoDB container is running. The backend project will not run properly without the database being available. If you aren't sure it is running, see [#starting-the-mongodb-pod](../introduction/required-software.md#starting-the-mongodb-pod "mention").
 {% endhint %}
 
 1. After [#opening-the-project-in-vs-code](tutorial-initialize-the-project.md#opening-the-project-in-vs-code "mention")
-2.  Expand **Explorer** panel on the left
+2.  Expand the **Explorer** panel on the left
 
     <img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
 3.  Expand **NPM Scripts** at the bottom of the _Explorer_ panel
@@ -108,3 +100,11 @@ Because the project (i.e., its two subprojects) uses NPM, we will use NPM script
     ![](<../.gitbook/assets/image (1).png>)
 4. Run the `start` script of the `backend` project by clicking the ▶️ button next to `start`
 5. Run the `start` script of the `frontend` project by clicking the ▶️ button next to `start`
+
+{% hint style="success" %}
+**You should always start both the front-end and back-end projects.** The front-end project makes API requests to the back-end project. The back-end project communicates with the database.
+{% endhint %}
+
+{% hint style="success" %}
+**Both projects will **_**hot reload**_. This means the projects will rebuild and redeploy automatically as you make code changes.
+{% endhint %}
