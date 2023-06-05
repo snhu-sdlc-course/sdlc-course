@@ -84,7 +84,7 @@ If there is enough time left in the sprint and the scope of a discovered issue i
 
 On Agile teams, quality assurance is typically performed in phases, as depicted in the graphic below:
 
-![Fig. 1: Phases of Quality Assurance on an Agile Team](<../.gitbook/assets/image (2) (1).png>)
+![Fig. 1: Phases of Quality Assurance on an Agile Team](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ## Estimating with Story Points
 
@@ -114,7 +114,7 @@ _Swarming_ is a practice Scrum teams use to complete high-priority work or help 
 
 I worked with an amazing company called Analyst1 for just over a year. Analyst1 had the best Agile culture I've experienced, and one of the team's greatest strengths was _swarming_ on problems anytime a member hit a roadblock. If someone encountered a problem I didn't know how to solve, everyone else would stop what they were doing and jump on that one problem until it was resolved.&#x20;
 
-This practice had several benefits beyond the face value of solving the problem. I will leave those for you to brainstorm in [discussion-4.md](discussion-4.md "mention").
+This practice had several benefits beyond the face value of solving the problem. I will leave those for you to brainstorm in [discussion-4-2.md](discussion-4-2.md "mention").
 
 I encourage you to read this great article about Agile Swarming:
 

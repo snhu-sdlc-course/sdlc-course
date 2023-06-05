@@ -1,4 +1,4 @@
-# Journal 4: Tester
+# Journal 5-3: Tester
 
 ## Overview
 
@@ -19,7 +19,6 @@ In this journal, you will reflect on your role as a Scrum Software Developer on 
 At a minimum, address the following topics:
 
 * How did you decide which activities to include in your test cases and which to omit? Put another way, it is impossible to test _everything_. How do you prioritize your efforts?
-* How did you choose strategies for validating acceptance criteria? (i.e., how did you choose different kinds of validation steps in Katalon to use?)
-* How did you ensure your tests left the system in a consistent state so they could be run repeatedly?
-* What are some ways automated testing tools (like Katalon) are Agile? What are some ways they are not?
+* How did you choose strategies for validating acceptance criteria? (i.e., how did you choose among the different kinds of validation steps available in Katalon?)
+* Do you consider Katalon to be an Agile tool? What are some ways it is and/or is not?
 * Do you foresee any problems with using tools like Katalon on a project? If so, explain.

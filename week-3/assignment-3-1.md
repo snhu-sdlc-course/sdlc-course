@@ -2,7 +2,7 @@
 description: Create a Product Backlog
 ---
 
-# Assignment 3
+# Assignment 3-1
 
 ## Assignment Details
 
@@ -12,7 +12,7 @@ Now,  you will watch another animation to learn what modifications are needed to
 
 This assignment includes **two tasks**:
 
-1. Create a _Product Backlog_ in GitHub and populate it with User Stories that capture those modifications. Each User Story must contain the following:
+1. Create a _Product Backlog_ in GitHub and populate it with five User Stories that capture those modifications. Each User Story must contain the following:
    * Descriptive title
    * Priority based on Connie's feedback
    * Description that contains
@@ -37,7 +37,7 @@ Finally, you may need to use the **SNHU Electronics** company logo at some point
 
 ## Using GitHub Projects
 
-Last week, you cloned your group's GitHub repository, which contains a copy of the SNHU Library project. For this assignment, each team member will create a user story in your GitHub Project. Collectively, your user stories constitute your project's Product Backlog.
+Last week, you forked the GitHub repository and cloned it to your local machine. You now have a copy of the SNHU Library project. For this assignment, you will create five user stories in your GitHub Project. Collectively, your user stories constitute your project's Product Backlog.
 
 ## Rubric
 
