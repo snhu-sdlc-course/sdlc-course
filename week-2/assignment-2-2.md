@@ -69,7 +69,7 @@ The application is a traditional 3-tier, mid-tier application. It consists of th
 * **Back-end:** a server-side _SailsJS_ JavaScript application
 * **MongoDB:** the server-side MongoDB NoSQL, document database
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fig. 1: App Structure</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Fig. 1: App Structure</p></figcaption></figure>
 
 ## Preparing to Run the Project (i.e., Installing Dependencies)
 
@@ -86,7 +86,7 @@ Before [#running-the-project-in-vs-code](assignment-2-2.md#running-the-project-i
 1. After [#opening-the-project-in-vs-code](assignment-2-2.md#opening-the-project-in-vs-code "mention")
 2.  Expand **Explorer** panel on the left
 
-    <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/image (2) (1) (2).png" alt="" data-size="original">
 3.  Expand **NPM Scripts** at the bottom of the _Explorer_ panel
 
     ![](<../.gitbook/assets/image (1) (1).png>)
@@ -108,7 +108,7 @@ Because the project (i.e., its two subprojects) uses NPM, we will use NPM script
 1. After [#opening-the-project-in-vs-code](assignment-2-2.md#opening-the-project-in-vs-code "mention")
 2.  Expand the **Explorer** panel on the left
 
-    <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/image (2) (1) (2).png" alt="" data-size="original">
 3.  Expand **NPM Scripts** at the bottom of the _Explorer_ panel
 
     ![](<../.gitbook/assets/image (1) (1).png>)
