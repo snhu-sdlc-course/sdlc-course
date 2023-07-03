@@ -180,7 +180,7 @@ Scrum has relatively few artifacts thanks to its emphasis on _lean_ practices --
 
 ### Product Backlog
 
-![Fig. 3: The Flow of Requirements from Stakeholders to the Product Owner, from the Product Owner to the Product Backlog, and from the Product Backlog into Sprint Backlogs](<../.gitbook/assets/image (2).png>)
+![Fig. 3: The Flow of Requirements from Stakeholders to the Product Owner, from the Product Owner to the Product Backlog, and from the Product Backlog into Sprint Backlogs](<../.gitbook/assets/image (2) (2).png>)
 
 Copeland defines the _Product Backlog_ as "essentially a queue of work to be done" (p. 68). The word _queue_ implies an ordering of the items (user stories, in this case). Depending on the amount and detail of planning required (e.g., determining cost, duration, and resource requirements), the Product Backlog may cover only the next few sprints, or it may include enough work to occupy the team for the foreseeable future.&#x20;
 

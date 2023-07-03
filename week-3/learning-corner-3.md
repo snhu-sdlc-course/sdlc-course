@@ -28,7 +28,7 @@ Finally, the Product Owner must clarify this vision by breaking it down into exe
 
 While it is the job of Product Owners to describe what the product must be, it is also their job to describe what it cannot be and, more generally, limit the team to options that satisfy the _iron triangle_ (see Fig. 1 below) from the client's perspective.
 
-![Fig. 1: Iron Triangle](<../.gitbook/assets/image (7).png>)
+![Fig. 1: Iron Triangle](<../.gitbook/assets/image (7) (1).png>)
 
 The Iron Triangle illustrates the inseparable relationship between _scope_, _resources_ (i.e., people and money), and _time_. The bottom line is if you change one component (e.g., increasing scope with more features) you will unavoidably change another component (e.g., either you must drastically add resources, greatly extend the schedule, or, more likely, increase both to some degree).
 
