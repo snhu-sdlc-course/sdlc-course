@@ -49,5 +49,8 @@
 * [Week 6](week-6/README.md)
   * [Reading and Study](week-6/reading-and-study.md)
   * [Learning Corner 6](week-6/learning-corner-6.md)
+  * [Assignment 6-1](week-6/assignment-6-1.md)
+  * [Discussion 6-2](week-6/discussion-6-2.md)
+  * [Journal 6-3: Agile Communication](week-6/journal-6-3-agile-communication.md)
 * [Week 7](week-7.md)
 * [Week 8](week-8.md)

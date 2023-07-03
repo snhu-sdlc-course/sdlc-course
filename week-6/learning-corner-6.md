@@ -8,7 +8,7 @@ description: Project Management Tools and Communications Tools
 
 Any non-trivial Agile projects involve multiple people working on multiple tasks. To be effective, they need a way to coordinate and track their efforts. In the past (before the explosion of SaaS products and distributed teams), it was common to have physical Kanban boards in offices (see Figure 1).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Fig. 1: Pysical Kanban Board in Office</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fig. 1: Pysical Kanban Board in Office</p></figcaption></figure>
 
 Tools that facilitate the flow of information and promote _openness and transparency_ are called **information radiators**. Information radiators ensure that:
 
@@ -79,7 +79,7 @@ Choose a tool that **permanently stores** instant messaging conversations by def
 
 ### Screen Sharing and Recording
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption><p>Fig. 2: MS Teams Screen Sharing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="375"><figcaption><p>Fig. 2: MS Teams Screen Sharing</p></figcaption></figure>
 
 Pair programming and Swarming are pivotal to successful Agile software projects. For distributed/remote teams, these practices are impossible without the ability to screen share. Commonly, the information gained while solving a problem needs to be shared with the rest of the team; hence, it is important that your tool offer the ability to record sessions.
 
@@ -91,7 +91,7 @@ There are many other times when screen sharing and recording are important. Exam
 
 ### Grouping and Categorizing Communications
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption><p>Fig. 3: MS Teams Channel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Fig. 3: MS Teams Channel</p></figcaption></figure>
 
 Whatever tool you choose should allow the team to categorize (i.e., label) and group communications. It is common for two or three members of an Agile team to work together on user stories (e.g., a tester and a developer, two developers working on the same part of a system, a developer and the product owner, etc.) Communication tools should support creating a "thread" of communication for this group of people.
 
@@ -103,7 +103,7 @@ Examples of this feature include "Channels" in Slack and "Conversations" or "Cha
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Fig. 4: Slack File Sharing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption><p>Fig. 4: Slack File Sharing</p></figcaption></figure>
 
 </div>
 
@@ -111,7 +111,7 @@ Your tool should support sharing files with other members. You should also be ab
 
 ### Integrations
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption><p>Fig. 5: GitLab for Slack App</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Fig. 5: GitLab for Slack App</p></figcaption></figure>
 
 Finally, your tool should support integrating with the various components of your Project Management tool and CI/CD pipeline. This includes connecting to:
 

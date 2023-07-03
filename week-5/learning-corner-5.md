@@ -46,7 +46,7 @@ Second, this collaboration results in another benefit offered by Agile teams: ev
 
 The flow often looks like this:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fig. 1: From Conversations to Code</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Fig. 1: From Conversations to Code</p></figcaption></figure>
 
 Another significant benefit of the whole team approach is that testers may require help from other team members to build and perform tests. Crispin and Gregory (2011) describe this symbiosis like this:
 
@@ -106,7 +106,7 @@ Instead, Agile Testers help the customer express their requirements, support the
 
 In _Figure 4_ (below), the various kinds of tests and testing are divided into four quadrants based on their form of execution (functional or code/tool) and whether they provide most of their value to the team or the customer. For example, exploratory tests are performed by using the end product (not writing code or using advanced tools), and they deliver most of their value to the customer by ensuring a quality product. Conversely, unit tests are performed by writing code that exercises the product's code, and they deliver most of their value to the Agile team by giving the developers the confidence to refactor existing code.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fig. 4: Agile Testing Quadrants (Crispin &#x26; Gregory, 2011, p. 98)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Fig. 4: Agile Testing Quadrants (Crispin &#x26; Gregory, 2011, p. 98)</p></figcaption></figure>
 
 While Agile Testers normally stay out of Q1 and focus on the other quadrants, it is not uncommon for other team members to support the testers as they address Q2, Q3, and Q4. Agile Testers will almost always need help from Developers and System Administrators with preparing test environments, generating bodies of test data, providing compiled executables, maintaining CI/CD pipelines, and more.&#x20;
 
@@ -144,7 +144,7 @@ Risk is also a very important consideration. Risk is defined as the intersection
 
 Project Management resources often provide a _Risk Matrix_ as a tool to simplify this calculation. It allows you to rate risk on a scale from Low to High quickly.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Fig. 5: Risk Matrix</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Fig. 5: Risk Matrix</p></figcaption></figure>
 
 ### Agile Tester Tools
 

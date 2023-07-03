@@ -35,7 +35,7 @@ This course uses the freely available [Visual Studio Code IDE](https://code.visu
    ![](<../.gitbook/assets/image (3).png>)
 3.  Ensure your **repository name** is `snhu-library` and click <mark style="color:blue;">**Create Fork**</mark>
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Once the fork is complete, open a terminal (e.g., Git Bash for Windows, macOS Terminal, etc.)
 5. Clone the project to your user directory. Run the script below in your terminal. **Be sure to replace** `<your username>` **with your GitHub username.**
 
@@ -89,7 +89,7 @@ Before [#running-the-project-in-vs-code](assignment-2-2.md#running-the-project-i
     <img src="../.gitbook/assets/image (2) (1) (2).png" alt="" data-size="original">
 3.  Expand **NPM Scripts** at the bottom of the _Explorer_ panel
 
-    ![](<../.gitbook/assets/image (1) (1).png>)
+    ![](<../.gitbook/assets/image (1) (1) (1).png>)
 4. Run the `install` script of the `backend` project by clicking the ▶️ button next to `install`
 5. Run the `install` script of the `frontend` project by clicking the ▶️ button next to `install`
 
@@ -111,7 +111,7 @@ Because the project (i.e., its two subprojects) uses NPM, we will use NPM script
     <img src="../.gitbook/assets/image (2) (1) (2).png" alt="" data-size="original">
 3.  Expand **NPM Scripts** at the bottom of the _Explorer_ panel
 
-    ![](<../.gitbook/assets/image (1) (1).png>)
+    ![](<../.gitbook/assets/image (1) (1) (1).png>)
 4. Run the `start` script of the `backend` project by clicking the ▶️ button next to `start`
 5. Run the `start` script of the `frontend` project by clicking the ▶️ button next to `start`
 
