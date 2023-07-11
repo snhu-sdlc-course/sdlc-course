@@ -53,6 +53,8 @@ Finally, your textbook gives a thorough examination of the VersionOne enterprise
 
 ## Communication Tools
 
+Communication Tools for today's Agile teams should provide several features necessary to support the level and quality of collaboration required for success.
+
 ### Synchronicity
 
 While Agile Project Management tools offer several ways to communicate (e.g., assigning tickets, tagging people, and comments), and e-mail is always an option, both of these lack a key ingredient of Agile communication: _**synchronicity**_. Agile communications _should_ be **synchronous**.&#x20;
@@ -91,7 +93,7 @@ There are many other times when screen sharing and recording are important. Exam
 
 ### Grouping and Categorizing Communications
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Fig. 3: MS Teams Channel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption><p>Fig. 3: MS Teams Channel</p></figcaption></figure>
 
 Whatever tool you choose should allow the team to categorize (i.e., label) and group communications. It is common for two or three members of an Agile team to work together on user stories (e.g., a tester and a developer, two developers working on the same part of a system, a developer and the product owner, etc.) Communication tools should support creating a "thread" of communication for this group of people.
 

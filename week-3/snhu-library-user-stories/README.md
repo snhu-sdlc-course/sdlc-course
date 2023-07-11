@@ -4,7 +4,9 @@ description: User Stories Already Implemented
 
 # SNHU Library User Stories
 
-These user stories were already written for the SNHU Library by the original team. You will need to reference some of these in Week 5 for testing.
+These user stories were already written for the SNHU Library by the original team. You will need to write five of your own user stories but can use these as references.
+
+You must also reference some of these in Week 5 for testing and in Week 6 for populating your Project Management tool.
 
 {% hint style="info" %}
 The original team did implement some of these, but then they just stopped. _Nobody knows what happened._ The team was nearly done with the project and simply vanished before they could finish the last few user stories...

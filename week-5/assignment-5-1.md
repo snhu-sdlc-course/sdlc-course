@@ -19,7 +19,7 @@ This assignment has you fill the role of Agile Tester. You will use a prominent 
 
     <div data-full-width="true">
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Fig. 1: Katalon Download Icon</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Fig. 1: Katalon Download Icon</p></figcaption></figure>
 
     </div>
 * Choose the version for your Operating System and click download
